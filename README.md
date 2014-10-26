@@ -5,7 +5,7 @@
 
 **Repository content**  
 
-CodeBook.md: Code book for the course project 
+CodeBook.md: Code book for the course project  
 README.md: This file which describes how the R script works  
 run_analysis.R: R script that tidy the data set
 

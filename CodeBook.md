@@ -5,7 +5,7 @@ Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
 
 Data description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The attached R script (run_analysis.R) create a tidy data set by the following:
+The attached R script (run_analysis.R) performs the following to create the tidy data set:
 
 1. **Merge training and test sets.** Test and training data (X_train.txt, X_test.txt), subject ids (subject_train.txt, subject_test.txt) and activity ids (y_train.txt, y_test.txt) are merged to obtain a single data set.
 
