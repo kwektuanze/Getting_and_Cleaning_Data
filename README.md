@@ -4,11 +4,13 @@
 ##Getting and Cleaning Data Course Project
 
 **Repository content**  
+
 CodeBook.md: Code book that describes the variables, the data and the transformations  
 README.md: This file which describes how the R script works  
 run_analysis.R: R script that tidy the data set
 
 **Creating the tidy data set**  
+
 1. Unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip into working directory. A folder called "UCI HAR Dataset" will be created.
 
 2. Put run_analysis.R into folder "UCI HAR Dataset".
