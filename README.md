@@ -1,11 +1,11 @@
 Getting_and_Cleaning_Data
 =========================
 
-Getting and Cleaning Data Course Project
+##Getting and Cleaning Data Course Project
 
-**Repository content**
-CodeBook.md: Code book that describes the variables, the data, and the transformations
-README.md: This file which describes how the R script works
+**Repository content**  
+CodeBook.md: Code book that describes the variables, the data, and the transformations  
+README.md: This file which describes how the R script works  
 run_analysis.R: R script that tidy the data set
 
 **Creating the tidy data set**
